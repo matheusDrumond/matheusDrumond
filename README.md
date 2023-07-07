@@ -18,5 +18,3 @@ A maior parte da minha experiência é em desenvolvimento de websites, utilizand
 
 # Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusDrumond&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusDrumond&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusDrumond&theme=tokyonight)

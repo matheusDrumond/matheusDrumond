@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Matheus!
 
 - 🔭 Atualmente sou desenvolvedor front-end
-- 🌱 Trbalhando e melhorando minhas skills em Javascript com foco em React
+- 🌱 Trabalhando e melhorando minhas skills em Javascript com foco em React
 - 🌎 Tenho inglês avançado e estudo alemão
 
 # 🚀 Sobre mim

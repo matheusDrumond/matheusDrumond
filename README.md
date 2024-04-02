@@ -1,11 +1,11 @@
 # 👋 Olá! Eu sou o Matheus!
 
 - 🔭 Atualmente sou desenvolvedor front-end
-- 🌱 Estudando React.js
-- 🌎 Tenho inglês avançado e estudo francês
+- 🌱 Trbalhando e melhorando minhas skills em Javascript com foco em React
+- 🌎 Tenho inglês avançado e estudo alemão
 
 # 🚀 Sobre mim
-A maior parte da minha experiência é em desenvolvimento de websites, utilizando do meu conhecimento e criatividade para resolver problemas com elegância e entregando a melhor experiência possível ao usuário. Utilizo principalmente HTML, CSS e JavaScript nos meus projetos do dia a dia e estou sempre procurando melhorar e aprender novas tecnologias. No momento meu foco é desenvolver as Stacks que eu já tenho e procurar projetos que me possibilitem desenvolver o domínio de Frameworks e Libs de JS.
+Eu sou um apaixonado e dedicado desenvolvedor React com um forte foco em criar interfaces de usuário interativas e experiências digitais envolventes. Com um fundo sólido em JavaScript e uma paixão incessante por aprender, eu me especializei em desenvolver aplicações web escaláveis e responsivas usando React.
 
 # 💻 Tech Stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

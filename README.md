@@ -34,8 +34,6 @@ I’m a dedicated  developer passionate about crafting interactive user interfac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusDrumond&layout=compact&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusDrumond&theme=tokyonight)
-
 <p align="center">
 
 <a href="https://github.com/matheusDrumond?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=matheusDrumond&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@matheusDrumond's github-readme-stats"/></a>

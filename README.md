@@ -32,8 +32,9 @@ I’m a dedicated  developer passionate about crafting interactive user interfac
 
 # 📈 Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusDrumond&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusDrumond&layout=compact&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusDrumond&theme=tokyonight)
 
 <p align="center">
 

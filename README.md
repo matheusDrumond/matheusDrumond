@@ -5,7 +5,7 @@
 - 🌎 Advanced English speaker, currently learning German
 
 # 🚀 About Me
-I’m a dedicated  developer passionate about crafting interactive user interfaces and engaging digital experiences. With a strong JavaScript background and a love for continuous learning, I specialize in building scalable and responsive web applications using React, Tailwind, Bootstrap, ApolloGraphQL and other technologies.
+I’m a dedicated  developer passionate about crafting interactive user interfaces and engaging digital experiences. With a strong JavaScript background and a love for continuous learning, I specialize in building scalable and responsive web applications using C, Javascript, React, Tailwind, Bootstrap, ApolloGraphQL and other technologies.
 
 # 💻 Tech Stacks
 

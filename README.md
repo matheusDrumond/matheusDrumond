@@ -1,7 +1,7 @@
 # 👋 Hello! I’m Matheus!
 
 - 🔭 Currently a front-end developer
-- 🌱 Enhancing my Programming skills, focused in Javascript, but also improving my C abililties
+- 🌱 Enhancing my Programming skills, focused in Javascript, but also improving my software development abilities with CS50
 - 🌎 Advanced English speaker, currently learning German
 
 # 🚀 About Me

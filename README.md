@@ -2,7 +2,7 @@
 
 - 🔭 Front-end developer and aspiring software engineer
 - 🌱 Enhancing my Programming skills, focused in Javascript, but also improving my software development abilities with CS50
-- 🌎 Advanced English speaker, currently learning German
+- 🌎 Advanced English speaker and currently learning German
 
 # 🚀 About Me
 I’m a dedicated  developer passionate about crafting interactive user interfaces and engaging digital experiences. With a strong JavaScript background and a love for continuous learning, I specialize in building scalable and responsive web applications using React, Tailwind CSS, Bootstrap, ApolloGraphQL and other technologies.

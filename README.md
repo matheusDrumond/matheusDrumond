@@ -27,10 +27,10 @@ Open to remote opportunities worldwide 🌎
 
 ## 🚀 Projects
 
-### 🤖 [Personal Assistant API](https://github.com/matheusDrumond/personal-assistant-api)
+### 🤖 [Personal Assistant](https://github.com/matheusDrumond/personal-assistant)
 Full-stack AI assistant built from scratch — FastAPI backend with a complete RAG pipeline using ChromaDB as the vector store and Gemini as the LLM. Handles document ingestion, chunking, semantic retrieval, and context-aware response generation. React frontend included.
 
-### 🔍 Automated Job-Finding Workflow
+### 🔍 [Automated Job-Finding Workflow](https://github.com/matheusDrumond/job_finder)
 n8n pipeline that aggregates job listings from multiple APIs, scores them with Gemini 2.5 Flash based on my profile, and delivers curated results via Gmail. Runs on a weekly schedule inside Docker.
 
 ### 📄 GCP Document Validation System *(production — private repo)*

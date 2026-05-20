@@ -34,7 +34,7 @@ Full-stack AI assistant built from scratch — FastAPI backend with a complete R
 n8n pipeline that aggregates job listings from multiple APIs, scores them with Gemini 2.5 Flash based on my profile, and delivers curated results via Gmail. Runs on a weekly schedule inside Docker.
 
 ### 📄 GCP Document Validation System *(production — private repo)*
-Document analysis pipeline built at Pluz Tecnologia integrating Google Cloud Document AI and Gemini API for automated extraction, classification, and report generation.
+Document analysis pipeline integrating Google Cloud Document AI and Gemini API for automated extraction, classification, and report generation.
 
 ---
 
